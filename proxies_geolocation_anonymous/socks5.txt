@@ -1,0 +1,22 @@
+186.96.15.45:8111::Mexico::Nuevo León::Monterrey
+190.131.198.77:7497::Colombia::Antioquia::Medellín
+47.243.95.228:10080::Hong Kong::Central and Western District::Central
+59.152.233.78:8111::Hong Kong::Sha Tin::To Fung Shan
+103.112.234.1:8111::India::Gujarat::Jalalpore
+88.249.167.115:8111::Turkey::Canakkale::Çanakkale
+89.58.45.94:42420::Brazil::Sao Paulo::São Paulo
+88.248.182.59:8111::Turkey::Istanbul::Istanbul
+173.241.235.195:8111::United States::Ohio::Akron
+78.186.26.207:8111::Turkey::Konya::Karatay
+182.74.127.42:8111::India::Karnataka::Bengaluru
+185.87.121.35:8975::Turkey::Istanbul::Istanbul
+187.102.149.158:8111::Brazil::Rio de Janeiro::Rio de Janeiro
+103.152.104.250:1080::Bangladesh::Dhaka Division::Dhaka
+78.187.94.201:8111::Turkey::Istanbul::Kızıltoprak
+103.90.159.38:8111::India::Andhra Pradesh::Kaikalur
+61.216.76.38:8111::Taiwan::New Taipei::New Taipei
+115.73.208.115:8111::Vietnam::Ho Chi Minh::Ho Chi Minh City
+223.29.195.220:8111::India::West Bengal::Kolkata
+37.18.73.94:5566::Germany::Land Berlin::Berlin
+79.135.41.0:8111::Italy::Veneto::Sedico
+103.55.104.245:8111::India::National Capital Territory of Delhi::Delhi

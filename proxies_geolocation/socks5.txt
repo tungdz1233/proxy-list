@@ -1,0 +1,270 @@
+73.171.79.17:8111::United States::Virginia::Ruther Glen
+76.72.11.149:8111::United States::Louisiana::Lafayette
+173.246.210.209:8111::United States::North Carolina::Hendersonville
+104.244.70.157:8111::Canada::Quebec::Saint-Jacques-le-Mineur
+70.171.206.123:8111::United States::Arizona::Tempe
+192.111.135.17:18302::United States::Georgia::Atlanta
+68.1.73.93:8111::United States::Florida::Crestview
+192.111.139.163:19404::United States::Georgia::Atlanta
+168.91.230.58:8111::United States::Illinois::Evanston
+67.201.33.10:25283::United States::California::Los Angeles
+104.37.135.145:4145::United States::California::Los Angeles
+98.161.224.91:8111::United States::Arizona::Phoenix
+192.252.216.81:4145::United States::Georgia::Atlanta
+76.77.203.22:8111::United States::Minnesota::New Ulm
+188.127.86.85:8111::United Kingdom::England::London
+73.207.213.48:8111::United States::Georgia::Atlanta
+73.116.125.83:8111::United States::California::Sacramento
+192.111.135.18:18301::United States::Georgia::Atlanta
+186.96.15.45:8111::Mexico::Nuevo León::Monterrey
+23.249.67.246:8111::United States::Idaho::Pocatello
+174.69.229.109:8111::United States::Oklahoma::Tulsa
+184.178.172.14:4145::United States::Virginia::Roanoke
+72.221.172.203:4145::United States::California::San Diego
+98.170.57.249:4145::United States::Oklahoma::Oklahoma City
+72.210.252.137:4145::United States::Oklahoma::Oklahoma City
+73.189.184.48:8111::United States::California::San Jose
+98.162.96.53:10663::United States::Oklahoma::Oklahoma City
+98.162.25.16:4145::United States::Louisiana::Baton Rouge
+184.178.172.5:15303::United States::Virginia::Roanoke
+98.162.25.7:31653::United States::Louisiana::Baton Rouge
+98.178.72.21:10919::United States::Oklahoma::Oklahoma City
+72.206.181.105:64935::United States::Arizona::Phoenix
+98.162.25.23:4145::United States::Louisiana::Baton Rouge
+70.166.167.38:57728::United States::Oklahoma::Oklahoma City
+72.221.232.155:4145::United States::Oklahoma::Oklahoma City
+72.221.164.34:60671::United States::California::San Diego
+98.162.96.41:4145::United States::Oklahoma::Oklahoma City
+68.71.249.153:48606::United States::California::Los Angeles
+184.178.172.23:4145::United States::Virginia::Roanoke
+98.162.96.52:4145::United States::Oklahoma::Oklahoma City
+24.162.75.248:8111::United States::Texas::Dallas
+98.162.25.29:31679::United States::Louisiana::Baton Rouge
+72.206.181.97:64943::United States::Arizona::Phoenix
+174.77.111.198:49547::United States::Oklahoma::Oklahoma City
+72.210.221.223:4145::United States::Arizona::Phoenix
+190.131.198.77:7497::Colombia::Antioquia::Medellín
+96.23.82.21:8111::Canada::Quebec::Montreal
+70.166.167.55:57745::United States::Oklahoma::Oklahoma City
+68.71.254.6:4145::United States::California::Beverly Hills
+174.111.14.143:8111::United States::North Carolina::Reidsville
+72.210.208.101:4145::United States::Arizona::Phoenix
+72.206.181.103:4145::United States::Arizona::Phoenix
+98.170.57.231:4145::United States::Oklahoma::Oklahoma City
+72.210.221.197:4145::United States::Arizona::Phoenix
+72.210.252.134:46164::United States::Oklahoma::Oklahoma City
+198.15.3.108:8111::United States::Oregon::Scio
+72.217.216.239:4145::United States::Arizona::Phoenix
+173.242.142.246:8111::United States::Kentucky::Brandenburg
+148.74.59.99:8111::United States::Connecticut::Bridgeport
+192.252.208.67:14287::United States::Georgia::Atlanta
+174.77.111.196:4145::United States::Oklahoma::Oklahoma City
+192.111.137.37:18762::United States::Georgia::Atlanta
+206.123.57.244:8111::United States::Minnesota::Madelia
+98.188.47.150:4145::United States::Louisiana::Baton Rouge
+72.195.34.59:4145::United States::Oklahoma::Oklahoma City
+70.39.21.193:8111::United States::Iowa::McCallsburg
+68.71.247.130:4145::United States::California::Los Angeles
+72.212.37.142:8111::United States::Arizona::Glendale
+98.181.137.83:4145::United States::Nevada::Las Vegas
+68.111.70.227:8111::United States::California::Mission Viejo
+73.231.203.189:8111::United States::California::Saratoga
+192.252.220.92:17328::United States::California::Los Angeles
+95.182.121.73:62134::Russia::Moscow::Moscow
+72.195.34.35:27360::United States::Oklahoma::Oklahoma City
+184.178.172.25:15291::United States::Virginia::Roanoke
+138.94.92.26:7497::Brazil::Rio Grande do Norte::Acu
+72.221.232.152:4145::United States::Oklahoma::Oklahoma City
+208.103.229.242:8111::Canada::Ontario::Limoges
+216.243.54.173:8111::United States::Washington::Redmond
+174.64.199.79:4145::United States::Oklahoma::Oklahoma City
+72.195.114.184:4145::United States::Oklahoma::Oklahoma City
+24.249.199.4:4145::United States::Florida::Pensacola
+109.233.18.242:8111::Lebanon::Beyrouth::Beirut
+185.87.45.58:8111::Andorra::Andorra la Vella::Andorra la Vella
+65.190.159.219:8111::United States::North Carolina::Clayton
+98.162.25.4:31654::United States::Louisiana::Baton Rouge
+51.222.12.245:10084::Canada::Quebec::Beauharnois
+190.214.50.130:8111::Ecuador::Provincia del Guayas::Guayaquil
+45.169.70.9:7497::Brazil::Federal District::Brasília
+176.215.77.168:1080::Russia::Bryansk Oblast::Bryansk
+45.136.108.61:8111::United Kingdom::England::London
+167.250.31.125:8111::Brazil::Rio Grande do Sul::Porto Alegre
+167.99.201.165:51485::United Kingdom::England::London
+212.50.96.137:8111::Cyprus::Nicosia::Nicosia
+72.48.168.91:8111::United States::Texas::The Colony
+73.109.193.211:8111::United States::Washington::Olympia
+24.170.197.162:8111::United States::Florida::Gainesville
+192.252.214.20:15864::United States::Georgia::Atlanta
+72.221.196.157:35904::United States::Oklahoma::Oklahoma City
+167.99.201.165:44926::United Kingdom::England::London
+24.234.135.10:8111::United States::Nevada::Las Vegas
+78.189.86.22:8111::Turkey::Izmir::Izmir
+138.185.142.239:8111::Argentina::La Pampa::General Pico
+72.206.181.123:4145::United States::Arizona::Phoenix
+119.17.159.17:8111::Australia::Victoria::Melbourne
+78.186.46.254:8111::Turkey::Kayseri::Kayseri
+73.229.113.69:8111::United States::Colorado::Monument
+85.105.233.233:8111::Turkey::Istanbul::Istanbul
+47.243.95.228:10080::Hong Kong::Central and Western District::Central
+59.152.233.78:8111::Hong Kong::Sha Tin::To Fung Shan
+103.112.234.1:8111::India::Gujarat::Jalalpore
+1.186.252.38:8111::India::Maharashtra::Mumbai
+159.89.163.128:7497::India::Karnataka::Bengaluru
+45.161.236.253:7497::Paraguay::Departamento del Alto Parana::Ciudad del Este
+66.44.187.163:8111::United States::Minnesota::Goodhue
+173.246.15.185:8111::Canada::Quebec::Montreal
+88.249.167.115:8111::Turkey::Canakkale::Çanakkale
+176.236.6.130:8111::Turkey::Istanbul::Istanbul
+49.205.179.212:8111::India::National Capital Territory of Delhi::New Delhi
+192.111.129.145:16894::United States::Georgia::Atlanta
+198.8.94.170:4145::United States::Georgia::Atlanta
+14.161.38.107:8111::Vietnam::Ho Chi Minh::Ho Chi Minh City
+113.161.81.213:8111::Vietnam::Ho Chi Minh::Ho Chi Minh City
+197.248.151.210:8111::Kenya::Nairobi Province::Nairobi
+185.210.144.212:443::Singapore::North West::Singapore
+192.111.137.35:4145::United States::Georgia::Atlanta
+110.44.123.91:8111::Nepal::Bagmati Province::Kathmandu
+103.215.161.213:8111::Australia::New South Wales::Sydney
+162.208.169.39:8111::Canada::Alberta::Edmonton
+68.1.210.163:4145::United States::California::San Diego
+192.111.130.2:4145::Canada::Ontario::Toronto
+197.248.32.18:8111::Kenya::Nairobi Province::Nairobi
+49.205.194.43:8111::India::Karnataka::Bengaluru
+175.139.199.245:8111::Malaysia::Selangor::Klang
+78.187.213.10:8111::Turkey::Antalya::Antalya
+184.181.217.220:4145::United States::Oklahoma::Oklahoma City
+221.195.143.239:55653::China::Hebei::Shijiazhuang
+103.106.20.139:8111::India::Gujarat::Ahmedabad
+174.64.199.82:4145::United States::Oklahoma::Oklahoma City
+88.249.0.54:8111::Turkey::Adana::Adana
+184.178.172.13:15311::United States::Virginia::Roanoke
+129.126.197.112:8111::Singapore::South West::Singapore
+31.145.51.132:8111::Turkey::Ankara::Ankara
+88.250.176.79:8111::Turkey::Bursa::Yildirim
+176.236.87.246:8111::Turkey::Ankara::Ankara
+183.82.114.52:8111::India::Telangana::Hyderabad
+112.133.240.9:8111::India::Gujarat::Surat
+45.112.53.76:8111::India::National Capital Territory of Delhi::New Delhi
+15.152.50.23:5000::Japan::Ōsaka::Osaka
+66.203.129.235:8111::United States::Florida::Palm City
+73.61.49.155:8111::United States::Massachusetts::Somerset
+85.99.121.155:8111::Turkey::Bartın::Ulus
+89.58.45.94:42420::Brazil::Sao Paulo::São Paulo
+49.205.176.25:8111::India::National Capital Territory of Delhi::Delhi
+88.248.182.59:8111::Turkey::Istanbul::Istanbul
+14.139.121.104:8111::India::Gujarat::Surat
+162.250.170.154:8111::Canada::Ontario::Toronto
+170.187.186.100:52768::Germany::Hesse::Frankfurt am Main
+85.105.15.126:8111::Turkey::Istanbul::Istanbul
+173.241.235.195:8111::United States::Ohio::Akron
+89.22.106.31:33449::Germany::North Rhine-Westphalia::Düsseldorf
+78.186.26.207:8111::Turkey::Konya::Karatay
+72.195.34.60:27391::United States::Oklahoma::Oklahoma City
+98.179.107.56:8111::United States::Arizona::Peoria
+73.85.200.240:8111::United States::Florida::Boca Raton
+103.213.104.138:8111::Afghanistan::Kabul::Kabul
+154.73.52.130:8111::Libya::Tripoli::Tripoli
+115.243.196.107:8111::India::West Bengal::Kolkata
+136.233.104.170:8111::India::West Bengal::Haldia
+213.14.183.158:8111::Turkey::Izmir::Izmir
+159.89.228.253:38172::United States::New Jersey::North Bergen
+182.74.127.42:8111::India::Karnataka::Bengaluru
+192.241.249.237:4427::United States::New York::New York
+1.10.168.30:8111::Thailand::Trang::Trang
+47.242.151.165:50001::Hong Kong::Central and Western District::Hong Kong
+121.66.178.59:8111::South Korea::Gyeonggi-do::Anyang-si
+50.63.13.228:24609::United States::Arizona::Tempe
+157.245.1.59:44131::United States::New Jersey::Clifton
+72.11.189.140:8111::Canada::Quebec::Napierville
+109.228.254.90:8111::Turkey::Istanbul::Istanbul
+216.113.55.179:8111::Canada::Quebec::Stoneham
+167.172.139.74:15872::United States::New Jersey::North Bergen
+50.158.250.87:8111::United States::Nevada::Las Vegas
+107.190.119.220:8111::Canada::Ontario::Dundas
+14.139.212.50:8111::India::Odisha::Cuttack
+185.87.121.35:8975::Turkey::Istanbul::Istanbul
+187.102.149.158:8111::Brazil::Rio de Janeiro::Rio de Janeiro
+185.6.10.231:2978::Sweden::Stockholm County::Stockholm
+81.214.130.222:8111::Turkey::Istanbul::Istanbul
+103.152.104.250:1080::Bangladesh::Dhaka Division::Dhaka
+2.47.133.167:8111::Italy::Lazio::Rome
+78.187.94.201:8111::Turkey::Istanbul::Kızıltoprak
+195.175.104.110:8111::Turkey::Bursa::Bursa
+38.242.219.166:53945::Germany::North Rhine-Westphalia::Düsseldorf
+192.241.249.237:3233::United States::New York::New York
+85.105.86.229:8111::Turkey::Istanbul::Istanbul
+206.189.195.54:4930::United States::New Jersey::North Bergen
+78.189.16.125:8111::Turkey::Istanbul::Istanbul
+81.4.143.210:8111::Cyprus::Limassol District::Limassol
+24.210.175.55:8111::United States::Kentucky::Louisville
+51.195.45.102:13901::Germany::Hesse::Limburg an der Lahn
+46.35.126.49:8111::Spain::Melilla::Melilla
+66.42.224.229:41679::United States::Ohio::Cincinnati
+103.90.159.38:8111::India::Andhra Pradesh::Kaikalur
+81.214.75.90:8111::Turkey::Istanbul::Istanbul
+61.216.76.38:8111::Taiwan::New Taipei::New Taipei
+51.254.211.171:7497::France::Hauts-de-France::Gravelines
+125.66.165.154:7302::China::Sichuan::Zigong
+117.247.186.93:8111::India::Kerala::Kochi
+138.197.66.68:40568::United States::New Jersey::Clifton
+107.190.104.243:8111::Canada::Ontario::Burlington
+75.119.150.125:14376::Germany::North Rhine-Westphalia::Düsseldorf
+76.76.196.122:8111::Puerto Rico::San Juan::San Juan
+24.247.106.215:8111::United States::Michigan::Greenville
+192.155.86.27:63099::United States::California::Fremont
+178.128.163.157:64898::United Kingdom::England::London
+198.8.94.174:39078::United States::Georgia::Atlanta
+72.222.86.108:8111::United States::Oklahoma::Broken Arrow
+78.189.201.54:8111::Turkey::Diyarbakir::Diyarbakır
+184.181.217.210:4145::United States::Oklahoma::Oklahoma City
+5.39.93.167:22851::France::Hauts-de-France::Roubaix
+54.38.242.224:31143::France::Hauts-de-France::Gravelines
+185.12.150.98:3641::Sweden::Stockholm County::Stockholm
+89.163.144.155:54416::Germany::North Rhine-Westphalia::Düsseldorf
+183.82.107.42:8111::India::Telangana::Hyderabad
+115.73.208.115:8111::Vietnam::Ho Chi Minh::Ho Chi Minh City
+94.72.61.46:1080::Russia::St.-Petersburg::St Petersburg
+174.138.52.209:50281::United States::New Jersey::Clifton
+88.247.171.21:8111::Turkey::Izmir::Izmir
+212.156.79.166:8111::Turkey::Adana::Adana
+95.9.68.137:8111::Turkey::Antalya::Altınkum
+187.63.9.38:63253::Brazil::Rio de Janeiro::Cabo Frio
+201.76.172.74:8111::Brazil::Rio de Janeiro::Rio de Janeiro
+223.29.195.220:8111::India::West Bengal::Kolkata
+157.245.1.59:27656::United States::New Jersey::Clifton
+213.14.182.124:8111::Turkey::Istanbul::Sisli
+38.94.34.239:32755::United States::Illinois::Chicago
+188.166.99.171:40595::Netherlands::North Holland::Amsterdam
+198.211.38.45:47457::United States::California::Santa Clarita
+162.155.237.26:8111::United States::Ohio::Vermilion
+49.205.177.244:8111::India::National Capital Territory of Delhi::New Delhi
+187.190.236.215:8111::Mexico::Guanajuato::Celaya
+103.125.154.102:8111::India::Tamil Nadu::Tirupur
+74.127.85.75:8111::United States::Georgia::Butler
+103.85.232.20:1080::Bangladesh::Rajshahi Division::Gendaria
+213.14.14.114:8111::Turkey::Van::Van
+139.99.123.53:19000::Singapore::Central Singapore::Singapore
+69.61.200.104:36181::United States::Ohio::Cincinnati
+167.99.12.224:49652::United States::New Jersey::North Bergen
+207.5.53.123:8111::United States::South Carolina::St. Helena
+14.139.234.18:8111::India::Rajasthan::Jodhpur
+208.102.51.6:58208::United States::Kentucky::Alexandria
+24.240.20.73:8111::United States::Georgia::Suwanee
+128.199.114.221:51155::Singapore::South West::Singapore
+37.18.73.94:5566::Germany::Land Berlin::Berlin
+68.229.27.212:8111::United States::Nevada::Las Vegas
+176.235.248.154:8111::Turkey::Istanbul::Istanbul
+103.107.172.21:8111::India::Karnataka::Bengaluru
+185.6.10.231:52047::Sweden::Stockholm County::Stockholm
+159.203.114.105:18931::United States::New Jersey::Clifton
+167.86.99.193:10100::Germany::Bavaria::Nuremberg
+212.48.152.181:1080::Russia::Moscow::Moscow
+78.188.80.182:8111::Turkey::Istanbul::Istanbul
+79.135.41.0:8111::Italy::Veneto::Sedico
+103.48.196.3:8111::India::National Capital Territory of Delhi::Delhi
+91.205.72.103:50960::Poland::Łódź Voivodeship::Lodz
+103.55.104.245:8111::India::National Capital Territory of Delhi::Delhi
+157.245.1.59:18973::United States::New Jersey::Clifton
+171.244.140.160:46828::Vietnam::Hanoi::Hanoi
+187.188.82.138:8111::Mexico::México::Ciudad Nezahualcoyotl
